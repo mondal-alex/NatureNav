@@ -145,7 +145,7 @@ Item {
                 y: 10
                 width: parent.width - 20
                 height: parent.height - 20
-                source: "./assets/"+lastPhoto.lastPhoto
+                source: "./Images/"+lastPhoto.lastPhoto
             }
         }
         Rectangle {
